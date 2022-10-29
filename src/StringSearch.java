@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class StringSearch {
     public static void main(String[] args) {
-        System.out.println("Привет!");
+        System.out.println("Добро пожаловать!");
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите контрольную строку");
         String controlStr = sc.nextLine();
